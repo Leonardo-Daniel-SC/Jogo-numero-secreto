@@ -20,7 +20,7 @@ Um jogo simples desenvolvido com **HTML**, **CSS** e **JavaScript**, onde o obje
 
 ## 📌 Links
 * [Repositório](https://github.com/Leonardo-Daniel-SC/Jogo-numero-secreto)
-* [Site Publicado](https://leonardo-daniel-sc.github.io/Jogo-numero-secreto/)
+* [Projeto Online](https://leonardo-daniel-sc.github.io/Jogo-numero-secreto/)
 ---
 
 ## 📖 Sobre o projeto
