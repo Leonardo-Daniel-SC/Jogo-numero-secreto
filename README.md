@@ -4,16 +4,28 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="center">
-  <img src="./img/preview.png" width="700">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="./img/numero-secreto(1).png" width="450"></td>
+    <td><img src="./img/numero-secreto(2).png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="./img/numero-secreto(3).png" width="450"></td>
+    <td><img src="./img/numero-secreto(4).png" width="450"></td>
+  </tr>
+</table>
 
 
 Um jogo simples desenvolvido com **HTML**, **CSS** e **JavaScript**, onde o objetivo é adivinhar o número secreto gerado aleatoriamente pelo sistema.
 
+## 📌 Links
+* [Repositório](https://github.com/Leonardo-Daniel-SC/Jogo-numero-secreto)
+* [Site Publicado](https://leonardo-daniel-sc.github.io/Jogo-numero-secreto/)
+---
+
 ## 📖 Sobre o projeto
 
-Este projeto foi desenvolvido para praticar conceitos fundamentais de JavaScript, como:
+Este projeto foi focado em desenvolver conceitos fundamentais de JavaScript, como:
 
 * Manipulação do DOM
 * Eventos
@@ -108,14 +120,3 @@ Durante o desenvolvimento deste projeto foram praticados:
 * Boas práticas de organização do código
 
 ---
-
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins de estudo e aprendizado.
-
-
-
-
-## 📌 Links
-* [Repositório](https://github.com/Leonardo-Daniel-SC/Jogo-numero-secreto)
-* [Site Publicado](https://leonardo-daniel-sc.github.io/Jogo-numero-secreto/)
